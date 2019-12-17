@@ -1,0 +1,14 @@
+{
+	"name":"tirei01/hm2",
+	"version":"1.0.0",
+	"require":{
+		"php":">=7.0"
+	},
+	{
+		"autoload":{
+			"psr-4":{
+				"Tirei01\\Hw2\\":"src"
+			}
+		}
+	}
+}
