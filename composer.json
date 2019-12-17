@@ -1,6 +1,7 @@
 {
   "name": "tirei01/hm2",
   "version": "1.0.0",
+  "license": "MIT",
   "require": {
     "php": ">=7.0"
   },
